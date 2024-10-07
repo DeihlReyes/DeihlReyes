@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deihl</h1>
-<h3 align="center">"Building Innovative Solutions | Full-Stack Developer | Music Producer 🎵 | Let's Code and Create Together 🚀</h3>
+<h3 align="center">Full-Stack Developer | Music Producer 🎵 | Let's Code and Create Together 🚀</h3>
 
 - 💬 Ask me about **React, Flutter, and Firebase**
 
